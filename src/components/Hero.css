@@ -1,0 +1,37 @@
+.txt-hero, .txt-hero-span{
+    font-family: 'Libre Franklin', sans-serif;
+    font-weight: 800;
+    line-height:110%
+}
+.txt-hero-span{
+    color:red;
+}
+
+.txt-hero{
+    letter-spacing: 3px;
+}
+
+.h1{
+    font-size:80px;
+}
+
+.h3{
+    font-size:48px;
+    letter-spacing: 1px;
+}
+
+.Hero{
+    background-image:url("../img/bg-hero.svg") ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.hero-a{
+    padding:0
+}
+
+.hero-h6{
+    font-size:1.2em;
+    font-weight: 600;
+}
+
